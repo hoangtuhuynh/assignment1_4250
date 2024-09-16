@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Hoang Tu Huynh
 # FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# SPECIFICATION: Complete the Python program (indexing.py) that will read the file collection.csv and output the tf-idf document-term matrix 
 # FOR: CS 4250- Assignment #1
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: many hours
 #-----------------------------------------------------------*/
 
 #Importing some Python libraries
